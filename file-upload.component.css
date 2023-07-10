@@ -1,0 +1,15 @@
+.outer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+  }
+  .color{
+    display: flex;
+
+    color: green;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
